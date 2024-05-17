@@ -22,16 +22,16 @@ In this repository, I have developed a Rock Paper Scissors game using HTML, CSS,
 Here are some screenshots of the game for better understanding:
 
 ### Game Interface
-![Game Interface](Screenshot%202024-05-17%20200345.png)
+![Game Interface](img/Screenshot%202024-05-17%20200345.png)
 
 ### User Wins
-![User Wins](Screenshot%202024-05-17%20200414.png)
+![User Wins](img/Screenshot%202024-05-17%20200414.png)
 
 ### Computer Wins
-![Computer Wins](Screenshot%202024-05-17%20200450.png)
+![Computer Wins](img/Screenshot%202024-05-17%20200450.png)
 
 ### Tie
-![Tie](Screenshot%202024-05-17%20200512.png)
+![Tie](img/Screenshot%202024-05-17%20200512.png)
 
 ## How to Play
 
