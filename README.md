@@ -24,13 +24,13 @@ Here are some screenshots of the game for better understanding:
 ### Game Interface
 ![Game Interface](img/Screenshot%202024-05-17%20200345.png)
 
-### User Wins
+### Computer Wins
 ![User Wins](img/Screenshot%202024-05-17%20200414.png)
 
-### Computer Wins
+### Tie
 ![Computer Wins](img/Screenshot%202024-05-17%20200450.png)
 
-### Tie
+### User Wins
 ![Tie](img/Screenshot%202024-05-17%20200512.png)
 
 ## How to Play
@@ -46,4 +46,4 @@ To run this game locally:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/rock-paper-scissors.git
+   git clone https://github.com/sudhanshu25012002/stone-paper-scissor-JavaScript.git
